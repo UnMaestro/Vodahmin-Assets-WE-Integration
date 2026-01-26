@@ -1,0 +1,48 @@
+<Publish>
+  <ModId Value="" />
+  <DisplayName Value="Vodahmin Assets (WE-Integration)" />
+  <ShortDescription Value="A WriteEverywhere-Module that adds dynamic text to Vodahmins assets" />
+  <LongDescription># Vodahmin Assets WE integration
+
+Hello and Hallo. This is WriteEverywhere Module that adds dynamic Text to Vodahmins VAG station assets.
+
+### Functions
+- Works **automaticly**, you don't need any WE knowledge whatsoever!
+- Dynamic working Bus/Tram Stop Names
+
+---
+
+##  Requirements
+- [Write Everywhere](https://mods.paradoxplaza.com/mods/92908/Windows) – required  
+- [VAG Bus Stop Set](https://mods.paradoxplaza.com/mods/132358/Any)
+- [VAG Tram Stop Set](https://mods.paradoxplaza.com/mods/132354/Any)
+
+---
+
+##  Check out Vodahmin's assets or my Mods
+- [Vodahmin von Riſʒ](https://mods.paradoxplaza.com/authors/Vodahmin)
+- [Maestro's Mods](https://mods.paradoxplaza.com/authors/UnMaestro)
+
+---
+
+##  Credits and Special Thanks
+- To **Klyte45** for the WriteEverywhere mod.
+
+
+---
+
+##  Enjoy &amp; Share Your Feedback!</LongDescription>
+  <Thumbnail Value="Properties/Thumbnail.png" />
+  <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/vodahmin-assets-we-integration.1897197/" />
+  <ModVersion Value="1.0.0" />
+  <GameVersion Value="1.*" />
+  <ChangeLog>Initial Release</ChangeLog>
+  <Tag Value="Code Mod" />
+  <Screenshot Value="Screenshots\Screenshot_1.jpg" />
+  <Screenshot Value="Screenshots\Screenshot_2.jpg" />
+  <Screenshot Value="Screenshots\Screenshot_3.jpg" />
+  <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
+  <ExternalLink Type="github" Url="https://github.com/UnMaestro/Vodahmin-Assets-WE-Integration" />
+  <ExternalLink Type="discord" Url="https://discord.com/channels/1024242828114673724/1446097301775843488" />
+  <ExternalLink Type="paypal" Url="https://www.paypal.com/paypalme/pas1800" />
+</Publish>
