@@ -8,10 +8,14 @@ Hello and Hallo. This is WriteEverywhere Module that adds dynamic Text to Vodahm
 
 ---
 
-##  Requirements
+##  Requirements/Supported Assets
 - [Write Everywhere](https://mods.paradoxplaza.com/mods/92908/Windows) – required  
 - [VAG Bus Stop Set](https://mods.paradoxplaza.com/mods/132358/Any)
 - [VAG Tram Stop Set](https://mods.paradoxplaza.com/mods/132354/Any)
+- [VAG Tram Station Loops](https://mods.paradoxplaza.com/mods/132668/Any)
+- [VAG Universal Bus Station](https://mods.paradoxplaza.com/mods/132379/Any)
+- [ESTW Bus Stop Set](https://mods.paradoxplaza.com/mods/135663/Any)
+- [ESTW Tram Stop Set](https://mods.paradoxplaza.com/mods/135662/Any)
 
 ---
 

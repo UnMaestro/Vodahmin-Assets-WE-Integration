@@ -1,5 +1,5 @@
 <Publish>
-  <ModId Value="" />
+  <ModId Value="132837" />
   <DisplayName Value="Vodahmin Assets (WE-Integration)" />
   <ShortDescription Value="A WriteEverywhere-Module that adds dynamic text to Vodahmins assets" />
   <LongDescription># Vodahmin Assets WE integration
@@ -12,10 +12,14 @@ Hello and Hallo. This is WriteEverywhere Module that adds dynamic Text to Vodahm
 
 ---
 
-##  Requirements
+##  Requirements/Supported Assets
 - [Write Everywhere](https://mods.paradoxplaza.com/mods/92908/Windows) – required  
 - [VAG Bus Stop Set](https://mods.paradoxplaza.com/mods/132358/Any)
 - [VAG Tram Stop Set](https://mods.paradoxplaza.com/mods/132354/Any)
+- [VAG Tram Station Loops](https://mods.paradoxplaza.com/mods/132668/Any)
+- [VAG Universal Bus Station](https://mods.paradoxplaza.com/mods/132379/Any)
+- [ESTW Bus Stop Set](https://mods.paradoxplaza.com/mods/135663/Any)
+- [ESTW Tram Stop Set](https://mods.paradoxplaza.com/mods/135662/Any)
 
 ---
 
@@ -34,9 +38,14 @@ Hello and Hallo. This is WriteEverywhere Module that adds dynamic Text to Vodahm
 ##  Enjoy &amp; Share Your Feedback!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/vodahmin-assets-we-integration.1897197/" />
-  <ModVersion Value="1.0.0" />
+  <ModVersion Value="1.1.0" />
   <GameVersion Value="1.*" />
-  <ChangeLog>Initial Release</ChangeLog>
+  <ChangeLog>## Version 1.1
+
+### Added
+- VAG Universal Bus Station support
+- All 3 VAG Tram Station loops support
+- ESTW Assets support</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshot_1.jpg" />
   <Screenshot Value="Screenshots\Screenshot_2.jpg" />
